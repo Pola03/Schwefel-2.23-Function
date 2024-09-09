@@ -1,4 +1,4 @@
-# **Schwefel Function**
+# **Schwefel 2.23 Function**
 
 ## <u>*Autor*:</u> *Paula Silva Lara*
 
